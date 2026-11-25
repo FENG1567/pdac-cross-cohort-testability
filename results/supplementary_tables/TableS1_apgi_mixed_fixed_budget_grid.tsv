@@ -1,0 +1,26 @@
+cohort	k	rule	candidates	mapped	testable	supported	supported_per100	testable_per100	conditional_supported_rate	denominator
+APGI_mixed	100	single_A	100	69	47	34	34	47	0.7234042553	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	100	single_B	100	68	55	36	36	55	0.6545454545	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	100	equal_weight	100	70	54	37	37	54	0.6851851852	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	100	continuous	100	73	54	40	40	54	0.7407407407	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	100	double_sig	100	73	52	39	39	52	0.75	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	250	single_A	250	157	98	59	23.6	39.2	0.6020408163	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	250	single_B	250	153	117	69	27.6	46.8	0.5897435897	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	250	equal_weight	250	166	117	75	30	46.8	0.641025641	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	250	continuous	250	169	110	67	26.8	44	0.6090909091	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	250	double_sig	250	166	109	68	27.2	43.6	0.623853211	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	500	single_A	500	278	182	109	21.8	36.4	0.5989010989	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	500	single_B	500	275	203	104	20.8	40.6	0.5123152709	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	500	equal_weight	500	295	207	126	25.2	41.4	0.6086956522	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	500	continuous	500	298	206	128	25.6	41.2	0.6213592233	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	500	double_sig	500	291	202	131	26.2	40.4	0.6485148515	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	1000	single_A	1000	453	304	180	18	30.4	0.5921052632	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	1000	single_B	1000	487	357	184	18.4	35.7	0.5154061625	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	1000	equal_weight	1000	523	377	219	21.9	37.7	0.5809018568	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	1000	continuous	1000	529	383	221	22.1	38.3	0.5770234987	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	1000	double_sig	1000	504	371	233	23.3	37.1	0.628032345	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	2000	single_A	2000	837	594	335	16.75	29.7	0.563973064	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	2000	single_B	2000	858	634	316	15.8	31.7	0.4984227129	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	2000	equal_weight	2000	893	654	346	17.3	32.7	0.5290519878	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	2000	continuous	2000	936	695	374	18.7	34.75	0.5381294964	ITT top-k; mixed-histology APGI 51-pair sensitivity
+APGI_mixed	2000	double_sig	2000	893	661	381	19.05	33.05	0.5763993949	ITT top-k; mixed-histology APGI 51-pair sensitivity

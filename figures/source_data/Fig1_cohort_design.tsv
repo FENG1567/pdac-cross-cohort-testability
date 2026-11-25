@@ -1,0 +1,5 @@
+cohort	pairs	harmonized_protein_features	R_mapped	R_strict_mapped	platform	R_testable	R_strict_testable	R_total	R_strict_total	gse28735_pairs	gse15471_pairs	apgi_primary_pairs	apgi_mixed_pairs	apgi_pdac_pairs	apgi_mucinous_pairs	apgi_other_pairs	case_audit_note
+Fudan	217	7055	2524	643	Mass spectrometry; linear intensity	2268	545	5885	1130	45	35	44	51	44	4	3	CPTAC: 64 PDAC retained; 3 Adenosquamous Carcinoma excluded (67 linked cases). GSE15471: 35 pairs after the identified QC-pair exclusion.
+CPTAC	64	11662	3842	958	TMT; log2 MD abundance	3524	894	5885	1130	45	35	44	51	44	4	3	CPTAC: 64 PDAC retained; 3 Adenosquamous Carcinoma excluded (67 linked cases). GSE15471: 35 pairs after the identified QC-pair exclusion.
+APGI	44	5585	2037	549	DIA/MaxLFQ	1544	399	5885	1130	45	35	44	51	44	4	3	CPTAC: 64 PDAC retained; 3 Adenosquamous Carcinoma excluded (67 linked cases). GSE15471: 35 pairs after the identified QC-pair exclusion.
+Ruijin	90	4787	1706	356	DIA; released protein abundance	1706	356	5885	1130	45	35	44	51	44	4	3	CPTAC: 64 PDAC retained; 3 Adenosquamous Carcinoma excluded (67 linked cases). GSE15471: 35 pairs after the identified QC-pair exclusion.

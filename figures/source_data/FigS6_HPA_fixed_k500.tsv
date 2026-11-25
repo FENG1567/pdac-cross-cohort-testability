@@ -1,0 +1,6 @@
+rule	candidate_budget	supported_low	supported_high	tested_displayed	supported_per100_low	supported_per100_high	unconditional_pct_low	unconditional_pct_high
+continuous	500	201	201	293	40.2	40.2	40.2	40.2
+double_sig	500	212	212	285	42.4	42.4	42.4	42.4
+equal_weight	500	191	191	286	38.2	38.2	38.2	38.2
+single_A	500	182	182	280	36.4	36.4	36.4	36.4
+single_B	500	154	154	275	30.8	30.8	30.8	30.8

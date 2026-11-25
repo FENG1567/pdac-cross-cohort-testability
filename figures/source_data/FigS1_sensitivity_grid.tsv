@@ -1,0 +1,337 @@
+cohort	scope	identifier	identifier_kind	row_label	min_pairs	effect_floor	candidate_slots	eligible	mapped	testable	supported	supported_per100_itt	conditional_rate	note
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	5	none	5885		2524	2386	1561	26.52506372	0.654233026	none
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	5	0.25	5885		2524	2386	997	16.94137638	0.4178541492	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	5	0.5	5885		2524	2386	572	9.719626168	0.2397317687	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	5	none	1130		643	585	453	40.08849558	0.7743589744	none
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	5	0.25	1130		643	585	377	33.36283186	0.6444444444	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	5	0.5	1130		643	585	274	24.24778761	0.4683760684	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_A	rule	Fudan · Single A · top500	5	none	500		301	265	193	38.6	0.7283018868	none
+Fudan	top500	single_A	rule	Fudan · Single A · top500	5	0.25	500		301	265	173	34.6	0.6528301887	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_A	rule	Fudan · Single A · top500	5	0.5	500		301	265	141	28.2	0.5320754717	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_B	rule	Fudan · Single B · top500	5	none	500		286	256	201	40.2	0.78515625	none
+Fudan	top500	single_B	rule	Fudan · Single B · top500	5	0.25	500		286	256	178	35.6	0.6953125	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_B	rule	Fudan · Single B · top500	5	0.5	500		286	256	139	27.8	0.54296875	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	5	none	500		313	275	228	45.6	0.8290909091	none
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	5	0.25	500		313	275	201	40.2	0.7309090909	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	5	0.5	500		313	275	163	32.6	0.5927272727	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	5	none	500		328	290	231	46.2	0.7965517241	none
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	5	0.25	500		328	290	203	40.6	0.7	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	5	0.5	500		328	290	164	32.8	0.5655172414	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	5	none	500		323	285	229	45.8	0.8035087719	none
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	5	0.25	500		323	285	199	39.8	0.698245614	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	5	0.5	500		323	285	155	31.0	0.5438596491	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	10	none	5885		2524	2268	1561	26.52506372	0.6882716049	none
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	10	0.25	5885		2524	2268	996	16.92438403	0.4391534392	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	10	0.5	5885		2524	2268	571	9.702633815	0.2517636684	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	10	none	1130		643	545	450	39.82300885	0.8256880734	none
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	10	0.25	1130		643	545	376	33.27433628	0.6899082569	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	10	0.5	1130		643	545	273	24.15929204	0.5009174312	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_A	rule	Fudan · Single A · top500	10	none	500		301	244	192	38.4	0.7868852459	none
+Fudan	top500	single_A	rule	Fudan · Single A · top500	10	0.25	500		301	244	172	34.4	0.7049180328	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_A	rule	Fudan · Single A · top500	10	0.5	500		301	244	140	28.0	0.5737704918	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_B	rule	Fudan · Single B · top500	10	none	500		286	245	203	40.6	0.8285714286	none
+Fudan	top500	single_B	rule	Fudan · Single B · top500	10	0.25	500		286	245	178	35.6	0.7265306122	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_B	rule	Fudan · Single B · top500	10	0.5	500		286	245	139	27.8	0.5673469388	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	10	none	500		313	261	229	45.8	0.877394636	none
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	10	0.25	500		313	261	200	40.0	0.7662835249	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	10	0.5	500		313	261	162	32.4	0.6206896552	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	10	none	500		328	271	230	46.0	0.8487084871	none
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	10	0.25	500		328	271	202	40.4	0.7453874539	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	10	0.5	500		328	271	163	32.6	0.6014760148	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	10	none	500		323	268	229	45.8	0.8544776119	none
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	10	0.25	500		323	268	199	39.8	0.7425373134	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	10	0.5	500		323	268	155	31.0	0.578358209	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	15	none	5885		2524	2184	1550	26.33814783	0.7097069597	none
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	15	0.25	5885		2524	2184	993	16.87340697	0.4546703297	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	15	0.5	5885		2524	2184	569	9.668649108	0.2605311355	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	15	none	1130		643	517	443	39.20353982	0.8568665377	none
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	15	0.25	1130		643	517	374	33.09734513	0.7234042553	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	15	0.5	1130		643	517	271	23.98230088	0.5241779497	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_A	rule	Fudan · Single A · top500	15	none	500		301	229	186	37.2	0.8122270742	none
+Fudan	top500	single_A	rule	Fudan · Single A · top500	15	0.25	500		301	229	169	33.8	0.7379912664	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_A	rule	Fudan · Single A · top500	15	0.5	500		301	229	138	27.6	0.6026200873	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_B	rule	Fudan · Single B · top500	15	none	500		286	235	199	39.8	0.8468085106	none
+Fudan	top500	single_B	rule	Fudan · Single B · top500	15	0.25	500		286	235	175	35.0	0.7446808511	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_B	rule	Fudan · Single B · top500	15	0.5	500		286	235	137	27.4	0.5829787234	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	15	none	500		313	249	225	45.0	0.9036144578	none
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	15	0.25	500		313	249	198	39.6	0.7951807229	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	15	0.5	500		313	249	160	32.0	0.6425702811	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	15	none	500		328	254	224	44.8	0.8818897638	none
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	15	0.25	500		328	254	199	39.8	0.7834645669	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	15	0.5	500		328	254	161	32.2	0.6338582677	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	15	none	500		323	251	224	44.8	0.8924302789	none
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	15	0.25	500		323	251	197	39.4	0.7848605578	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	15	0.5	500		323	251	153	30.6	0.609561753	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	20	none	5885		2524	2115	1544	26.23619371	0.7300236407	none
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	20	0.25	5885		2524	2115	990	16.82242991	0.4680851064	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_protocol	signature	Fudan · R · frozen	20	0.5	5885		2524	2115	568	9.651656754	0.2685579196	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	20	none	1130		643	492	438	38.76106195	0.8902439024	none
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	20	0.25	1130		643	492	371	32.83185841	0.7540650407	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	frozen_set	R_strict	signature	Fudan · R_strict · frozen	20	0.5	1130		643	492	271	23.98230088	0.5508130081	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_A	rule	Fudan · Single A · top500	20	none	500		301	215	183	36.6	0.8511627907	none
+Fudan	top500	single_A	rule	Fudan · Single A · top500	20	0.25	500		301	215	167	33.4	0.776744186	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_A	rule	Fudan · Single A · top500	20	0.5	500		301	215	137	27.4	0.6372093023	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_B	rule	Fudan · Single B · top500	20	none	500		286	222	197	39.4	0.8873873874	none
+Fudan	top500	single_B	rule	Fudan · Single B · top500	20	0.25	500		286	222	173	34.6	0.7792792793	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	single_B	rule	Fudan · Single B · top500	20	0.5	500		286	222	137	27.4	0.6171171171	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	20	none	500		313	237	221	44.2	0.9324894515	none
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	20	0.25	500		313	237	196	39.2	0.8270042194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	equal_weight	rule	Fudan · Equal-weight · top500	20	0.5	500		313	237	160	32.0	0.6751054852	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	20	none	500		328	240	220	44.0	0.9166666667	none
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	20	0.25	500		328	240	196	39.2	0.8166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	continuous	rule	Fudan · Continuous · top500	20	0.5	500		328	240	160	32.0	0.6666666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	20	none	500		323	238	220	44.0	0.9243697479	none
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	20	0.25	500		323	238	195	39.0	0.8193277311	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Fudan	top500	double_sig	rule	Fudan · Double-significant-first · top500	20	0.5	500		323	238	153	30.6	0.6428571429	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	5	none	5885		3842	3692	2139	36.34664401	0.5793607801	none
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	5	0.25	5885		3842	3692	1818	30.89209856	0.4924160347	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	5	0.5	5885		3842	3692	1145	19.45624469	0.3101300108	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	5	none	1130		958	928	743	65.75221239	0.8006465517	none
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	5	0.25	1130		958	928	717	63.45132743	0.7726293103	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	5	0.5	1130		958	928	570	50.44247788	0.6142241379	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	5	none	500		426	415	340	68.0	0.8192771084	none
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	5	0.25	500		426	415	336	67.2	0.8096385542	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	5	0.5	500		426	415	298	59.6	0.7180722892	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	5	none	500		423	413	343	68.6	0.8305084746	none
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	5	0.25	500		423	413	337	67.4	0.8159806295	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	5	0.5	500		423	413	282	56.4	0.6828087167	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	5	none	500		437	429	373	74.6	0.8694638695	none
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	5	0.25	500		437	429	369	73.8	0.8601398601	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	5	0.5	500		437	429	327	65.4	0.7622377622	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	5	none	500		442	437	375	75.0	0.8581235698	none
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	5	0.25	500		442	437	372	74.4	0.8512585812	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	5	0.5	500		442	437	334	66.8	0.7643020595	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	5	none	500		443	437	375	75.0	0.8581235698	none
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	5	0.25	500		443	437	372	74.4	0.8512585812	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	5	0.5	500		443	437	328	65.6	0.7505720824	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	10	none	5885		3842	3524	2129	36.17672048	0.6041430193	none
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	10	0.25	5885		3842	3524	1805	30.67119796	0.5122020431	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	10	0.5	5885		3842	3524	1133	19.25233645	0.3215096481	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	10	none	1130		958	894	743	65.75221239	0.8310961969	none
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	10	0.25	1130		958	894	716	63.36283186	0.8008948546	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	10	0.5	1130		958	894	568	50.26548673	0.6353467562	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	10	none	500		426	397	340	68.0	0.8564231738	none
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	10	0.25	500		426	397	336	67.2	0.8463476071	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	10	0.5	500		426	397	298	59.6	0.7506297229	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	10	none	500		423	394	341	68.2	0.8654822335	none
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	10	0.25	500		423	394	335	67.0	0.8502538071	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	10	0.5	500		423	394	280	56.0	0.7106598985	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	10	none	500		437	413	372	74.4	0.9007263923	none
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	10	0.25	500		437	413	368	73.6	0.8910411622	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	10	0.5	500		437	413	326	65.2	0.789346247	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	10	none	500		442	420	375	75.0	0.8928571429	none
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	10	0.25	500		442	420	372	74.4	0.8857142857	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	10	0.5	500		442	420	334	66.8	0.7952380952	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	10	none	500		443	420	375	75.0	0.8928571429	none
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	10	0.25	500		443	420	372	74.4	0.8857142857	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	10	0.5	500		443	420	328	65.6	0.780952381	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	15	none	5885		3842	3379	2103	35.73491929	0.6223734833	none
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	15	0.25	5885		3842	3379	1777	30.19541206	0.5258952353	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	15	0.5	5885		3842	3379	1109	18.84451997	0.3282036105	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	15	none	1130		958	858	735	65.04424779	0.8566433566	none
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	15	0.25	1130		958	858	708	62.65486726	0.8251748252	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	15	0.5	1130		958	858	559	49.46902655	0.6515151515	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	15	none	500		426	382	333	66.6	0.8717277487	none
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	15	0.25	500		426	382	329	65.8	0.8612565445	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	15	0.5	500		426	382	291	58.2	0.7617801047	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	15	none	500		423	379	337	67.4	0.889182058	none
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	15	0.25	500		423	379	331	66.2	0.8733509235	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	15	0.5	500		423	379	277	55.4	0.7308707124	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	15	none	500		437	397	366	73.2	0.9219143577	none
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	15	0.25	500		437	397	362	72.4	0.9118387909	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	15	0.5	500		437	397	320	64.0	0.8060453401	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	15	none	500		442	403	369	73.8	0.9156327543	none
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	15	0.25	500		442	403	366	73.2	0.9081885856	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	15	0.5	500		442	403	328	65.6	0.8138957816	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	15	none	500		443	404	369	73.8	0.9133663366	none
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	15	0.25	500		443	404	366	73.2	0.9059405941	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	15	0.5	500		443	404	322	64.4	0.797029703	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	20	none	5885		3842	3268	2079	35.3271028	0.6361689106	none
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	20	0.25	5885		3842	3268	1750	29.73661852	0.535495716	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_protocol	signature	CPTAC-PDAC · R · frozen	20	0.5	5885		3842	3268	1089	18.5046729	0.3332313341	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	20	none	1130		958	829	724	64.07079646	0.8733413752	none
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	20	0.25	1130		958	829	696	61.59292035	0.8395657419	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	frozen_set	R_strict	signature	CPTAC-PDAC · R_strict · frozen	20	0.5	1130		958	829	549	48.5840708	0.6622436671	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	20	none	500		426	377	331	66.2	0.8779840849	none
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	20	0.25	500		426	377	327	65.4	0.8673740053	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_A	rule	CPTAC-PDAC · Single A · top500	20	0.5	500		426	377	289	57.8	0.7665782493	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	20	none	500		423	371	332	66.4	0.8948787062	none
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	20	0.25	500		423	371	326	65.2	0.8787061995	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	single_B	rule	CPTAC-PDAC · Single B · top500	20	0.5	500		423	371	274	54.8	0.7385444744	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	20	none	500		437	388	361	72.2	0.9304123711	none
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	20	0.25	500		437	388	357	71.4	0.9201030928	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	equal_weight	rule	CPTAC-PDAC · Equal-weight · top500	20	0.5	500		437	388	316	63.2	0.8144329897	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	20	none	500		442	395	365	73.0	0.9240506329	none
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	20	0.25	500		442	395	362	72.4	0.9164556962	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	continuous	rule	CPTAC-PDAC · Continuous · top500	20	0.5	500		442	395	324	64.8	0.8202531646	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	20	none	500		443	395	364	72.8	0.9215189873	none
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	20	0.25	500		443	395	361	72.2	0.9139240506	exploratory_BH_gated_effect_filter_no_threshold_FDR
+CPTAC	top500	double_sig	rule	CPTAC-PDAC · Double-significant-first · top500	20	0.5	500		443	395	317	63.4	0.8025316456	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	5	none	5885		2037	1719	612	10.39932031	0.3560209424	none
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	5	0.25	5885		2037	1719	605	10.28037383	0.3519488074	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	5	0.5	5885		2037	1719	486	8.258283772	0.2827225131	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	5	none	1130		549	432	250	22.12389381	0.5787037037	none
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	5	0.25	1130		549	432	250	22.12389381	0.5787037037	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	5	0.5	1130		549	432	237	20.97345133	0.5486111111	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_A	rule	APGI · Single A · top500	5	none	500		278	204	99	19.8	0.4852941176	none
+APGI	top500	single_A	rule	APGI · Single A · top500	5	0.25	500		278	204	99	19.8	0.4852941176	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_A	rule	APGI · Single A · top500	5	0.5	500		278	204	99	19.8	0.4852941176	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_B	rule	APGI · Single B · top500	5	none	500		275	220	88	17.6	0.4	none
+APGI	top500	single_B	rule	APGI · Single B · top500	5	0.25	500		275	220	88	17.6	0.4	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_B	rule	APGI · Single B · top500	5	0.5	500		275	220	87	17.4	0.3954545455	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	5	none	500		295	227	111	22.2	0.4889867841	none
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	5	0.25	500		295	227	111	22.2	0.4889867841	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	5	0.5	500		295	227	109	21.8	0.4801762115	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	continuous	rule	APGI · Continuous · top500	5	none	500		298	225	117	23.4	0.52	none
+APGI	top500	continuous	rule	APGI · Continuous · top500	5	0.25	500		298	225	117	23.4	0.52	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	continuous	rule	APGI · Continuous · top500	5	0.5	500		298	225	116	23.2	0.5155555556	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	5	none	500		291	219	119	23.8	0.5433789954	none
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	5	0.25	500		291	219	119	23.8	0.5433789954	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	5	0.5	500		291	219	118	23.6	0.5388127854	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	10	none	5885		2037	1544	617	10.48428207	0.399611399	none
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	10	0.25	5885		2037	1544	610	10.3653356	0.3950777202	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	10	0.5	5885		2037	1544	488	8.292268479	0.3160621762	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	10	none	1130		549	399	253	22.38938053	0.634085213	none
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	10	0.25	1130		549	399	253	22.38938053	0.634085213	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	10	0.5	1130		549	399	240	21.23893805	0.6015037594	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_A	rule	APGI · Single A · top500	10	none	500		278	173	98	19.6	0.5664739884	none
+APGI	top500	single_A	rule	APGI · Single A · top500	10	0.25	500		278	173	98	19.6	0.5664739884	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_A	rule	APGI · Single A · top500	10	0.5	500		278	173	98	19.6	0.5664739884	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_B	rule	APGI · Single B · top500	10	none	500		275	200	89	17.8	0.445	none
+APGI	top500	single_B	rule	APGI · Single B · top500	10	0.25	500		275	200	89	17.8	0.445	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_B	rule	APGI · Single B · top500	10	0.5	500		275	200	88	17.6	0.44	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	10	none	500		295	201	111	22.2	0.552238806	none
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	10	0.25	500		295	201	111	22.2	0.552238806	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	10	0.5	500		295	201	109	21.8	0.5422885572	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	continuous	rule	APGI · Continuous · top500	10	none	500		298	199	116	23.2	0.5829145729	none
+APGI	top500	continuous	rule	APGI · Continuous · top500	10	0.25	500		298	199	116	23.2	0.5829145729	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	continuous	rule	APGI · Continuous · top500	10	0.5	500		298	199	115	23.0	0.5778894472	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	10	none	500		291	196	119	23.8	0.6071428571	none
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	10	0.25	500		291	196	119	23.8	0.6071428571	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	10	0.5	500		291	196	118	23.6	0.6020408163	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	15	none	5885		2037	1417	613	10.41631266	0.4326040932	none
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	15	0.25	5885		2037	1417	606	10.29736619	0.427664079	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	15	0.5	5885		2037	1417	476	8.088360238	0.3359209598	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	15	none	1130		549	358	246	21.7699115	0.687150838	none
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	15	0.25	1130		549	358	246	21.7699115	0.687150838	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	15	0.5	1130		549	358	232	20.53097345	0.6480446927	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_A	rule	APGI · Single A · top500	15	none	500		278	140	91	18.2	0.65	none
+APGI	top500	single_A	rule	APGI · Single A · top500	15	0.25	500		278	140	91	18.2	0.65	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_A	rule	APGI · Single A · top500	15	0.5	500		278	140	91	18.2	0.65	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_B	rule	APGI · Single B · top500	15	none	500		275	173	85	17.0	0.4913294798	none
+APGI	top500	single_B	rule	APGI · Single B · top500	15	0.25	500		275	173	85	17.0	0.4913294798	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_B	rule	APGI · Single B · top500	15	0.5	500		275	173	84	16.8	0.4855491329	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	15	none	500		295	172	107	21.4	0.6220930233	none
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	15	0.25	500		295	172	107	21.4	0.6220930233	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	15	0.5	500		295	172	105	21.0	0.6104651163	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	continuous	rule	APGI · Continuous · top500	15	none	500		298	168	110	22.0	0.6547619048	none
+APGI	top500	continuous	rule	APGI · Continuous · top500	15	0.25	500		298	168	110	22.0	0.6547619048	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	continuous	rule	APGI · Continuous · top500	15	0.5	500		298	168	109	21.8	0.6488095238	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	15	none	500		291	167	112	22.4	0.6706586826	none
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	15	0.25	500		291	167	112	22.4	0.6706586826	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	15	0.5	500		291	167	111	22.2	0.6646706587	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	20	none	5885		2037	1297	599	10.17841971	0.4618350039	none
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	20	0.25	5885		2037	1297	592	10.05947324	0.4564379337	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_protocol	signature	APGI · R · frozen	20	0.5	5885		2037	1297	462	7.85046729	0.3562066307	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	20	none	1130		549	328	236	20.88495575	0.7195121951	none
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	20	0.25	1130		549	328	236	20.88495575	0.7195121951	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	frozen_set	R_strict	signature	APGI · R_strict · frozen	20	0.5	1130		549	328	223	19.73451327	0.6798780488	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_A	rule	APGI · Single A · top500	20	none	500		278	129	88	17.6	0.6821705426	none
+APGI	top500	single_A	rule	APGI · Single A · top500	20	0.25	500		278	129	88	17.6	0.6821705426	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_A	rule	APGI · Single A · top500	20	0.5	500		278	129	88	17.6	0.6821705426	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_B	rule	APGI · Single B · top500	20	none	500		275	159	82	16.4	0.5157232704	none
+APGI	top500	single_B	rule	APGI · Single B · top500	20	0.25	500		275	159	82	16.4	0.5157232704	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	single_B	rule	APGI · Single B · top500	20	0.5	500		275	159	81	16.2	0.5094339623	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	20	none	500		295	155	103	20.6	0.664516129	none
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	20	0.25	500		295	155	103	20.6	0.664516129	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	equal_weight	rule	APGI · Equal-weight · top500	20	0.5	500		295	155	101	20.2	0.6516129032	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	continuous	rule	APGI · Continuous · top500	20	none	500		298	153	106	21.2	0.6928104575	none
+APGI	top500	continuous	rule	APGI · Continuous · top500	20	0.25	500		298	153	106	21.2	0.6928104575	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	continuous	rule	APGI · Continuous · top500	20	0.5	500		298	153	105	21.0	0.6862745098	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	20	none	500		291	152	108	21.6	0.7105263158	none
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	20	0.25	500		291	152	108	21.6	0.7105263158	exploratory_BH_gated_effect_filter_no_threshold_FDR
+APGI	top500	double_sig	rule	APGI · Double-significant-first · top500	20	0.5	500		291	152	107	21.4	0.7039473684	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	5	none	5885		1706	1706	1087	18.47068819	0.6371629543	none
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	5	0.25	5885		1706	1706	1059	17.99490229	0.6207502931	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	5	0.5	5885		1706	1706	851	14.46049278	0.4988276671	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	5	none	1130		356	356	312	27.61061947	0.8764044944	none
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	5	0.25	1130		356	356	311	27.52212389	0.8735955056	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	5	0.5	1130		356	356	293	25.92920354	0.8230337079	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	5	none	500		149	149	117	23.4	0.7852348993	none
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	5	0.25	500		149	149	117	23.4	0.7852348993	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	5	0.5	500		149	149	113	22.6	0.7583892617	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	5	none	500		134	134	127	25.4	0.947761194	none
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	5	0.25	500		134	134	127	25.4	0.947761194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	5	0.5	500		134	134	127	25.4	0.947761194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	5	none	500		156	156	143	28.6	0.9166666667	none
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	5	0.25	500		156	156	143	28.6	0.9166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	5	0.5	500		156	156	143	28.6	0.9166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	5	none	500		162	162	146	29.2	0.9012345679	none
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	5	0.25	500		162	162	146	29.2	0.9012345679	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	5	0.5	500		162	162	145	29.0	0.8950617284	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	5	none	500		155	155	139	27.8	0.8967741935	none
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	5	0.25	500		155	155	139	27.8	0.8967741935	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	5	0.5	500		155	155	137	27.4	0.8838709677	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	10	none	5885		1706	1706	1087	18.47068819	0.6371629543	none
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	10	0.25	5885		1706	1706	1059	17.99490229	0.6207502931	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	10	0.5	5885		1706	1706	851	14.46049278	0.4988276671	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	10	none	1130		356	356	312	27.61061947	0.8764044944	none
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	10	0.25	1130		356	356	311	27.52212389	0.8735955056	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	10	0.5	1130		356	356	293	25.92920354	0.8230337079	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	10	none	500		149	149	117	23.4	0.7852348993	none
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	10	0.25	500		149	149	117	23.4	0.7852348993	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	10	0.5	500		149	149	113	22.6	0.7583892617	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	10	none	500		134	134	127	25.4	0.947761194	none
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	10	0.25	500		134	134	127	25.4	0.947761194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	10	0.5	500		134	134	127	25.4	0.947761194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	10	none	500		156	156	143	28.6	0.9166666667	none
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	10	0.25	500		156	156	143	28.6	0.9166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	10	0.5	500		156	156	143	28.6	0.9166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	10	none	500		162	162	146	29.2	0.9012345679	none
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	10	0.25	500		162	162	146	29.2	0.9012345679	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	10	0.5	500		162	162	145	29.0	0.8950617284	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	10	none	500		155	155	139	27.8	0.8967741935	none
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	10	0.25	500		155	155	139	27.8	0.8967741935	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	10	0.5	500		155	155	137	27.4	0.8838709677	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	15	none	5885		1706	1706	1087	18.47068819	0.6371629543	none
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	15	0.25	5885		1706	1706	1059	17.99490229	0.6207502931	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	15	0.5	5885		1706	1706	851	14.46049278	0.4988276671	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	15	none	1130		356	356	312	27.61061947	0.8764044944	none
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	15	0.25	1130		356	356	311	27.52212389	0.8735955056	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	15	0.5	1130		356	356	293	25.92920354	0.8230337079	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	15	none	500		149	149	117	23.4	0.7852348993	none
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	15	0.25	500		149	149	117	23.4	0.7852348993	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	15	0.5	500		149	149	113	22.6	0.7583892617	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	15	none	500		134	134	127	25.4	0.947761194	none
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	15	0.25	500		134	134	127	25.4	0.947761194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	15	0.5	500		134	134	127	25.4	0.947761194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	15	none	500		156	156	143	28.6	0.9166666667	none
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	15	0.25	500		156	156	143	28.6	0.9166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	15	0.5	500		156	156	143	28.6	0.9166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	15	none	500		162	162	146	29.2	0.9012345679	none
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	15	0.25	500		162	162	146	29.2	0.9012345679	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	15	0.5	500		162	162	145	29.0	0.8950617284	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	15	none	500		155	155	139	27.8	0.8967741935	none
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	15	0.25	500		155	155	139	27.8	0.8967741935	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	15	0.5	500		155	155	137	27.4	0.8838709677	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	20	none	5885		1706	1706	1087	18.47068819	0.6371629543	none
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	20	0.25	5885		1706	1706	1059	17.99490229	0.6207502931	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_protocol	signature	Ruijin · R · frozen	20	0.5	5885		1706	1706	851	14.46049278	0.4988276671	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	20	none	1130		356	356	312	27.61061947	0.8764044944	none
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	20	0.25	1130		356	356	311	27.52212389	0.8735955056	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	frozen_set	R_strict	signature	Ruijin · R_strict · frozen	20	0.5	1130		356	356	293	25.92920354	0.8230337079	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	20	none	500		149	149	117	23.4	0.7852348993	none
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	20	0.25	500		149	149	117	23.4	0.7852348993	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_A	rule	Ruijin · Single A · top500	20	0.5	500		149	149	113	22.6	0.7583892617	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	20	none	500		134	134	127	25.4	0.947761194	none
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	20	0.25	500		134	134	127	25.4	0.947761194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	single_B	rule	Ruijin · Single B · top500	20	0.5	500		134	134	127	25.4	0.947761194	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	20	none	500		156	156	143	28.6	0.9166666667	none
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	20	0.25	500		156	156	143	28.6	0.9166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	equal_weight	rule	Ruijin · Equal-weight · top500	20	0.5	500		156	156	143	28.6	0.9166666667	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	20	none	500		162	162	146	29.2	0.9012345679	none
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	20	0.25	500		162	162	146	29.2	0.9012345679	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	continuous	rule	Ruijin · Continuous · top500	20	0.5	500		162	162	145	29.0	0.8950617284	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	20	none	500		155	155	139	27.8	0.8967741935	none
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	20	0.25	500		155	155	139	27.8	0.8967741935	exploratory_BH_gated_effect_filter_no_threshold_FDR
+Ruijin	top500	double_sig	rule	Ruijin · Double-significant-first · top500	20	0.5	500		155	155	137	27.4	0.8838709677	exploratory_BH_gated_effect_filter_no_threshold_FDR

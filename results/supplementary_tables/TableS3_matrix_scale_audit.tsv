@@ -1,0 +1,5 @@
+cohort	scale	release_protein_rows	release_samples	finite	missing	finite_exact_zero	finite_negative	min	median	max	labels
+Fudan	log2(x+1) intensity	7055	446	2181065	965465	0	0	0.0001442622910945383	0.5531638705094964	14.937893645756292	before complete-pair and nomination filters; CPTAC uses intersecting protein rows
+CPTAC	released common-reference TMT log2 abundance	11662	215	1888005	619325	0	0	10.0380587077953	23.9836336093877	36.0412523353886	before complete-pair and nomination filters; CPTAC uses intersecting protein rows
+APGI	released DIA/MaxLFQ analysed scale	5599	176	736707	248717	0	8495	-5.287871873793756	3.9735070211238166	18.29666698935885	before complete-pair and nomination filters; CPTAC uses intersecting protein rows
+Ruijin	released processed abundance; upstream denominator and imputation unspecified	4787	281	1345147	0	125	579568	-17.8362981544035	0.336175124903626	12.3646574459737	before complete-pair and nomination filters; CPTAC uses intersecting protein rows

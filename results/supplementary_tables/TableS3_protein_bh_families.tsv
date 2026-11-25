@@ -1,0 +1,5 @@
+cohort	unique_mapped_protein_genes	estimable_BH_tests	excluded_p_na	zero_sd_nonzero	zero_sd_zero_mean	min_pairs	BH_family
+Fudan	7055	6432	623	0	0	10	all finite protein paired-test p-values in this cohort
+CPTAC	11662	10460	1202	0	0	10	all finite protein paired-test p-values in this cohort
+APGI	5585	4135	1450	0	0	10	all finite protein paired-test p-values in this cohort
+Ruijin	4787	4787	0	0	0	10	all finite protein paired-test p-values in this cohort

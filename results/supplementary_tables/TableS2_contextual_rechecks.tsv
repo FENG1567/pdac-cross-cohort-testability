@@ -1,0 +1,10 @@
+pmcid	context_assessment	summary_of_historical_evidence	source_url
+PMC12517509	separate_studies_no_validation	The accession sentence describes differential-expression sources.	https://pmc.ncbi.nlm.nih.gov/articles/PMC12517509/
+PMC8715959	explicit_independent_validation	The two datasets are among named independent validation cohorts.	https://pmc.ncbi.nlm.nih.gov/articles/PMC8715959/
+PMC13008902	explicit_independent_validation	Both datasets are named as independent datasets for external model evaluation.	https://pmc.ncbi.nlm.nih.gov/articles/PMC13008902/
+PMC7066910	explicit_independent_validation	Both datasets are explicitly named as independently evaluated validation cohorts.	https://pmc.ncbi.nlm.nih.gov/articles/PMC7066910/
+PMC8801451	pooled_validation_uses_independent_singular	The four datasets contribute to one batch-adjusted validation cohort.	https://pmc.ncbi.nlm.nih.gov/articles/PMC8801451/
+PMC13136472	explicit_independent_validation	Both accessions are included in explicit independent validation statements.	https://pmc.ncbi.nlm.nih.gov/articles/PMC13136472/
+PMC13508459	separate_studies_no_validation	The excerpt describes independently collected study inputs without naming a validation role.	https://pmc.ncbi.nlm.nih.gov/articles/PMC13508459/
+PMC12946077	explicit_independent_validation	The model is trained elsewhere and validated on named independent datasets including both accessions.	https://pmc.ncbi.nlm.nih.gov/articles/PMC12946077/
+PMC13446304	separate_studies_no_validation	The accession excerpts describe bulk-cohort collection and correlation analysis.	https://pmc.ncbi.nlm.nih.gov/articles/PMC13446304/

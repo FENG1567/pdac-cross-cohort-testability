@@ -1,0 +1,5 @@
+cohort	k	single_A_supported	continuous_supported	total_supported_gain	total_gain_per100	single_A_testable	continuous_testable	extra_testable	single_A_conditional_rate	coverage_component_supported	coverage_component_per100	residual_supported	residual_per100	interpretation
+Fudan	500	192	230	38	7.6	244	271	27	0.7868852459	21.24590164	4.249180328	16.75409836	3.350819672	descriptive decomposition; not causal
+CPTAC	500	340	375	35	7	397	420	23	0.8564231738	19.697733	3.939546599	15.302267	3.060453401	descriptive decomposition; not causal
+APGI	500	98	116	18	3.6	173	199	26	0.5664739884	14.7283237	2.94566474	3.271676301	0.6543352601	descriptive decomposition; not causal
+Ruijin	500	117	146	29	5.8	149	162	13	0.7852348993	10.20805369	2.041610738	18.79194631	3.758389262	descriptive decomposition; not causal

@@ -1,0 +1,4 @@
+# Preserve release-manifest bytes across clones.
+* -text
+*.pdf binary
+*.gz binary

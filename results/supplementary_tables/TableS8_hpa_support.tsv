@@ -1,0 +1,3 @@
+set_or_rule	candidate_count	HPA_tested_displayed_count	candidates_with_approved_ensembl_id	symbol_linked_displayed_count_for_comparison	supported_count_rounding_low	supported_count_rounding_high	conditional_pct_low	conditional_pct_high	unconditional_pct_low	unconditional_pct_high	HPA_tested_displayed_coverage_pct
+R_protocol	5885	2776	5521	2795	936	938	33.71757925072046	33.789625360230545	15.904842820730671	15.938827527612574	47.170773152081566
+R_strict	1130	629	1080	632	396	396	62.95707472178061	62.95707472178061	35.04424778761062	35.04424778761062	55.663716814159294

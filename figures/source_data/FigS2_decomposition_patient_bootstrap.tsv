@@ -1,0 +1,25 @@
+cohort	baseline	component	point	bootstrap_mean	bootstrap_median	lo95	hi95	draws	bootstrap_unit
+Fudan	single_A	coverage	4.249180328	4.070480782	4.067769273	3.653400163	4.451144874	1000	protein patients resampled within cohort
+Fudan	single_B	coverage	4.308571429	4.140173201	4.149377593	3.383239796	4.841465727	1000	protein patients resampled within cohort
+Fudan	equal_weight	coverage	1.754789272	1.654053743	1.625581395	1.07242834	2.146899623	1000	protein patients resampled within cohort
+CPTAC	single_A	coverage	3.939546599	3.802513396	3.788888889	3.234233056	4.350763551	1000	protein patients resampled within cohort
+CPTAC	single_B	coverage	4.500507614	4.538539832	4.540505307	3.696340319	5.295658829	1000	protein patients resampled within cohort
+CPTAC	equal_weight	coverage	1.261016949	1.337771073	1.285300539	0.8813414986	1.807245237	1000	protein patients resampled within cohort
+APGI	single_A	coverage	2.94566474	3.141950117	3.148858794	2.372359367	3.910019316	1000	protein patients resampled within cohort
+APGI	single_B	coverage	-0.089	-0.1103896157	-0.1097986383	-0.6760213548	0.5446335079	1000	protein patients resampled within cohort
+APGI	equal_weight	coverage	-0.2208955224	-0.3503666236	-0.3532122462	-0.7069359972	0.0	1000	protein patients resampled within cohort
+Ruijin	single_A	coverage	2.041610738	2.073910067	2.076510067	1.989261745	2.163758389	1000	protein patients resampled within cohort
+Ruijin	single_B	coverage	5.307462687	5.327020896	5.307462687	5.265671642	5.391044776	1000	protein patients resampled within cohort
+Ruijin	equal_weight	coverage	1.1	1.111938462	1.115384615	1.084615385	1.130769231	1000	protein patients resampled within cohort
+Fudan	single_A	residual	3.350819672	3.373719218	3.395486287	2.367548387	4.305409836	1000	protein patients resampled within cohort
+Fudan	single_B	residual	1.091428571	0.9812267988	1.005785124	-0.3211187007	2.229277326	1000	protein patients resampled within cohort
+Fudan	equal_weight	residual	-1.554789272	-1.353453743	-1.369499106	-2.152000802	-0.5958067909	1000	protein patients resampled within cohort
+CPTAC	single_A	residual	3.060453401	3.141486604	3.173098752	1.403150825	4.668924584	1000	protein patients resampled within cohort
+CPTAC	single_B	residual	2.299492386	2.561460168	2.539599961	0.5948846154	4.900283505	1000	protein patients resampled within cohort
+CPTAC	equal_weight	residual	-0.6610169492	-0.5985710734	-0.6128632025	-1.562234322	0.3262347188	1000	protein patients resampled within cohort
+APGI	single_A	residual	0.6543352601	-0.05135011734	0.01663709836	-2.025064103	1.597988934	1000	protein patients resampled within cohort
+APGI	single_B	residual	5.489	5.055189616	5.113173077	2.710032258	6.979454025	1000	protein patients resampled within cohort
+APGI	equal_weight	residual	1.220895522	1.160966624	1.141707071	0.139716862	2.238296787	1000	protein patients resampled within cohort
+Ruijin	single_A	residual	3.758389262	3.618289933	3.593288591	3.036241611	4.245637584	1000	protein patients resampled within cohort
+Ruijin	single_B	residual	-1.507462687	-1.358220896	-1.349253731	-1.991044776	-0.7482089552	1000	protein patients resampled within cohort
+Ruijin	equal_weight	residual	-0.5	-0.5599384615	-0.5230769231	-0.9230769231	-0.1153846154	1000	protein patients resampled within cohort

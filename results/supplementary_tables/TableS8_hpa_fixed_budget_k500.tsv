@@ -1,0 +1,6 @@
+set_or_rule	candidate_count	HPA_tested_displayed_count	candidates_with_approved_ensembl_id	symbol_linked_displayed_count_for_comparison	supported_count_rounding_low	supported_count_rounding_high	conditional_pct_low	conditional_pct_high	unconditional_pct_low	unconditional_pct_high	HPA_tested_displayed_coverage_pct
+continuous	500	293	487	293	201	201	68.60068259385666	68.60068259385666	40.2	40.2	58.6
+double_sig	500	285	482	285	212	212	74.3859649122807	74.3859649122807	42.4	42.4	57.0
+equal_weight	500	286	488	287	191	191	66.78321678321679	66.78321678321679	38.2	38.2	57.2
+single_A	500	280	487	280	182	182	65.0	65.0	36.4	36.4	56.0
+single_B	500	275	486	276	154	154	56.0	56.0	30.8	30.8	55.0

@@ -1,0 +1,6 @@
+RNA ranking rule	Fudan	CPTAC-PDAC	APGI	Ruijin
+Single A	38.4 (192)	68.0 (340)	19.6 (98)	23.4 (117)
+Single B	40.6 (203)	68.2 (341)	17.8 (89)	25.4 (127)
+Equal weight	45.8 (229)	74.4 (372)	22.2 (111)	28.6 (143)
+Continuous	46.0 (230)	75.0 (375)	23.2 (116)	29.2 (146)
+Double-significant-first	45.8 (229)	75.0 (375)	23.8 (119)	27.8 (139)

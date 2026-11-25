@@ -1,0 +1,91 @@
+pmid	pmcid	year	journal	code
+36983615	PMC10054004	2023	Journal of personalized medicine	uses_both_unclear
+33932087	PMC8564660	2021	Molecular oncology	no_full_text
+36601127	PMC9806142	2022	Frontiers in immunology	no_full_text
+37928544	PMC10623006	2023	Frontiers in immunology	uses_both_unclear
+41028058	PMC12484808	2025	Scientific reports	uses_both_unclear
+38545193	PMC10965819	2024	Heliyon	no_full_text
+42691511	PMC13679630	2026	Translational oncology	uses_both_unclear
+39774001	PMC11949049	2025	JCI insight	uses_both_unclear
+40226617	PMC11986822	2025	Frontiers in immunology	no_full_text
+35046938	PMC8761623	2021	Frontiers in immunology	uses_both_unclear
+42432705	PMC13637410	2026	Cell communication and signaling : CCS	uses_both_unclear
+41056334	PMC12517509	2025	PLoS computational biology	explicit_independent_validation
+34976806	PMC8715959	2021	Frontiers in oncology	explicit_independent_validation
+35963640	PMC9417234	2022	Aging	uses_both_unclear
+32310997	PMC7170253	2020	PloS one	uses_both_unclear
+37260110	PMC10432876	2023	Clinical and translational science	uses_both_unclear
+39887656	PMC11948035	2025	Advanced science (Weinheim, Baden-Wurtte	uses_both_unclear
+41969468	PMC13066995	2026	Translational cancer research	uses_both_unclear
+32906832	PMC7564797	2020	Cancers	uses_both_unclear
+38303549	PMC10902308	2024	Journal of cellular and molecular medici	explicit_independent_validation
+42567885	PMC13597310	2026	Oncogene	uses_both_unclear
+34183642	PMC8239051	2021	Cell death & disease	uses_both_unclear
+41884834	PMC13008902	2026	Frontiers in immunology	explicit_independent_validation
+41050689	PMC12491318	2025	Frontiers in immunology	uses_both_unclear
+35699794	PMC11073089	2022	Cellular and molecular life sciences : C	no_full_text
+32081836	PMC7066910	2020	Aging	explicit_independent_validation
+32080178	PMC7033132	2020	Cell death & disease	uses_both_unclear
+34659542	PMC8489123	2021	Journal of Cancer	uses_both_unclear
+33968691	PMC8102236	2021	Gland surgery	no_full_text
+40103813	PMC11914796	2025	Frontiers in immunology	uses_both_unclear
+34021267	PMC8563797	2021	Cell death and differentiation	no_full_text
+41781786	PMC13069055	2026	Discover oncology	no_full_text
+37337120	PMC10290959	2023	Nature metabolism	uses_both_unclear
+37588985	PMC10425556	2023	Frontiers in endocrinology	uses_both_unclear
+37063425	PMC10092766	2023	International journal of biological scie	uses_both_unclear
+36743929	PMC9895410	2022	Frontiers in endocrinology	explicit_independent_validation
+35795552	PMC9251347	2022	Frontiers in pharmacology	uses_both_unclear
+31595147	PMC6775308	2019	International journal of biological scie	uses_both_unclear
+35656510	PMC9152319	2022	Frontiers in oncology	no_full_text
+39319269	PMC11421285	2024	iScience	uses_both_unclear
+32122386	PMC7053133	2020	Cell communication and signaling : CCS	no_full_text
+None	PMC13570651	2026	FASEB journal : official publication of 	discovery_validation_split
+30639415	PMC6412825	2019	EBioMedicine	uses_both_unclear
+35111149	PMC8801451	2021	Frontiers in immunology	explicit_independent_validation
+38361622	PMC10864800	2024	iScience	no_full_text
+33418496	PMC7804980	2021	EBioMedicine	uses_both_unclear
+37990271	PMC10664664	2023	Journal of translational medicine	uses_both_unclear
+32235821	PMC7148424	2020	Medical science monitor : international 	uses_both_unclear
+36118860	PMC9476319	2022	Frontiers in genetics	uses_both_unclear
+37396042	PMC10311482	2023	Frontiers in genetics	no_full_text
+33073486	PMC7701563	2020	Journal of cellular and molecular medici	uses_both_unclear
+36647100	PMC9844034	2023	Cancer cell international	merged_or_combined
+41874895	PMC13136472	2026	Discover oncology	explicit_independent_validation
+33178697	PMC7593596	2020	Frontiers in cell and developmental biol	no_full_text
+41377278	PMC12688881	2025	Annals of medicine and surgery (2012)	explicit_independent_validation
+37653101	PMC10620278	2023	Journal of cancer research and clinical 	explicit_independent_validation
+42389601	PMC13319948	2026	iScience	uses_both_unclear
+42304476	PMC13508459	2026	Journal of translational medicine	explicit_independent_validation
+38634049	PMC11021786	2024	Frontiers in oncology	no_full_text
+35769782	PMC9235519	2022	Frontiers in public health	uses_both_unclear
+40688078	PMC12271128	2025	Frontiers in immunology	uses_both_unclear
+41766855	PMC12946077	2026	Frontiers in immunology	explicit_independent_validation
+42158236	PMC13182732	2026	FASEB bioAdvances	no_full_text
+38493165	PMC10944463	2024	Cell death & disease	uses_both_unclear
+33027767	PMC7732303	2020	Aging	uses_both_unclear
+39610772	PMC11580612	2024	World journal of gastroenterology	no_full_text
+39538226	PMC11558815	2024	BMC cancer	no_full_text
+34887861	PMC8650155	2021	Frontiers in immunology	no_full_text
+37728418	PMC10564426	2023	Aging	explicit_independent_validation
+28860807	PMC5558580	2017	OncoTargets and therapy	uses_both_unclear
+42520475	PMC13446304	2026	Translational oncology	explicit_independent_validation
+41422445	PMC12835476	2025	Discover oncology	no_full_text
+42729487	PMC13562267	2026	Frontiers in immunology	no_full_text
+33221741	PMC7746340	2020	Aging	no_full_text
+40207217	PMC11979277	2025	Frontiers in immunology	uses_both_unclear
+40530146	PMC12170279	2025	Translational cancer research	discovery_validation_split
+42942302	PMC13705738	2026	Life (Basel, Switzerland)	uses_both_unclear
+40483657	PMC12146241	2025	Discover oncology	uses_both_unclear
+34568024	PMC8458909	2021	Frontiers in oncology	uses_both_unclear
+41427028	PMC12714175	2025	Human mutation	explicit_independent_validation
+42305469	PMC13265218	2026	Translational cancer research	uses_both_unclear
+37745080	PMC10512958	2023	Frontiers in pharmacology	uses_both_unclear
+41483133	PMC12847578	2026	Discover oncology	merged_or_combined
+39844327	PMC11753068	2025	Hereditas	explicit_independent_validation
+41655168	PMC12979763	2026	Discover oncology	uses_both_unclear
+34367241	PMC8340025	2021	Frontiers in genetics	uses_both_unclear
+36626244	PMC9876629	2023	Aging	explicit_independent_validation
+40687248	PMC12268606	2025	Translational cancer research	explicit_independent_validation
+36036290	PMC10992548	2023	Cancer immunology, immunotherapy : CII	no_full_text
+34691034	PMC8526937	2021	Frontiers in immunology	no_full_text

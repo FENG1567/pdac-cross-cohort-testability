@@ -1,0 +1,13 @@
+Held-out matrix	Rule	Supported / testable	Conditional	Unconditional	Coverage	ITT gain vs continuous (95% CI)
+Fudan	Continuous RNA	230 / 271	84.9%	46.0%	54.2%	Reference
+Fudan	Testability prior	325 / 488	66.6%	65.0%	97.6%	+19.0 (+16.6 to +21.6)
+Fudan	RNA + prior	434 / 479	90.6%	86.8%	95.8%	+40.8 (+38.8 to +42.2)
+CPTAC-PDAC	Continuous RNA	375 / 420	89.3%	75.0%	84.0%	Reference
+CPTAC-PDAC	Testability prior	279 / 500	55.8%	55.8%	100.0%	−19.2 (−23.2 to −16.2)
+CPTAC-PDAC	RNA + prior	428 / 499	85.8%	85.6%	99.8%	+10.6 (+8.4 to +13.8)
+APGI	Continuous RNA	116 / 199	58.3%	23.2%	39.8%	Reference
+APGI	Testability prior	116 / 390	29.7%	23.2%	78.0%	+0.0 (−1.2 to +5.2)
+APGI	RNA + prior	258 / 442	58.4%	51.6%	88.4%	+28.4 (+23.8 to +34.2)
+Ruijin	Continuous RNA	146 / 162	90.1%	29.2%	32.4%	Reference
+Ruijin	Testability prior	258 / 460	56.1%	51.6%	92.0%	+22.4 (+20.6 to +25.2)
+Ruijin	RNA + prior	353 / 401	88.0%	70.6%	80.2%	+41.4 (+40.4 to +42.4)

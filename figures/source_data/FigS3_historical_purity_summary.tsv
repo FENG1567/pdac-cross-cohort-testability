@@ -1,0 +1,4 @@
+group	median_abs_rho_purity	n	source_label	scope
+R	0.105	2356	Tumour purity in the original CPTAC release	historical summary only
+R_strict	0.092	615	Tumour purity in the original CPTAC release	historical summary only
+background	0.099	9041	Tumour purity in the original CPTAC release	historical summary only

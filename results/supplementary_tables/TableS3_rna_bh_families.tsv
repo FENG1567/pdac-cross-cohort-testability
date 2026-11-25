@@ -1,0 +1,3 @@
+cohort	genes	paired_patients	genes_with_any_missing_delta	complete_pair_min	estimable_BH_tests	zero_sd_nonzero	zero_sd_zero_mean	testable_rule
+A_GSE28735	21125	45	0	10	21125	0	0	paired log-scale/no-imputation; finite p after min-pair rule enters cohort-wide BH
+B_GSE15471	22834	35	0	10	22834	0	0	paired log-scale/no-imputation; finite p after min-pair rule enters cohort-wide BH

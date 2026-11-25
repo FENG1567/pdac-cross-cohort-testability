@@ -1,0 +1,13 @@
+{
+  "biotext_pdc_study": "PDC000504",
+  "main_cptac_pdc_study": "PDC000270",
+  "biotext_cases": 15,
+  "main_primary_analysis_cases": 64,
+  "main_public_release_cases": 166,
+  "biotext_unique_gdc_case_matches": 15,
+  "main_unique_gdc_case_matches": 64,
+  "ambiguous_gdc_case_matches": 0,
+  "shared_pdc_case_uuids_in_analysis_sets": 0,
+  "shared_gdc_case_uuids_in_analysis_sets": 0,
+  "scope": "Case-level linkage through public submitter identifiers; cross-study specimen and aliquot linkage was unresolved."
+}

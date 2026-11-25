@@ -1,0 +1,7 @@
+Cohort	Role	Pairs	Quantification	Harmonised features	R mapped / testable	R coverage
+GSE28735	RNA A	45	GPL6244 log₂	21,125	—	—
+GSE15471	RNA B	35	GPL570 log₂	22,834	—	—
+Fudan	Protein	217	Label-free MS	7,055	2,524 / 2,268	38.5%
+CPTAC-PDAC	Protein	64	TMT log₂ MD abundance	11,662	3,842 / 3,524	59.9%
+APGI	Protein	44	DIA/MaxLFQ	5,585	2,037 / 1,544	26.2%
+Ruijin	Protein	90	Released proteome	4,787	1,706 / 1,706	29.0%

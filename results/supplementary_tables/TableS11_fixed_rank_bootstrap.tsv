@@ -1,0 +1,17 @@
+cohort	contrast	point	mean	median	lo95	hi95	draws	total_draws	seed	estimand
+Fudan	continuous_minus_single_A	7.6	7.4442	7.4	6.6	8.4	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+Fudan	continuous_minus_single_B	5.4	5.1214	5.2	3.8	6.4	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+Fudan	continuous_minus_equal_weight	0.2	0.3006	0.2	-0.4	1	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+Fudan	double_sig_minus_continuous	-0.2	-0.34	-0.4	-0.8	0.2	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+CPTAC	continuous_minus_single_A	7	6.944	7	5.395	8.4	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+CPTAC	continuous_minus_single_B	6.8	7.1	7	5.4	9	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+CPTAC	continuous_minus_equal_weight	0.6	0.7392	0.8	0	1.6	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+CPTAC	double_sig_minus_continuous	0	0.0098	0	-0.6	0.6	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+APGI	continuous_minus_single_A	3.6	3.0906	3.2	1	4.8	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+APGI	continuous_minus_single_B	5.4	4.9448	5	2.795	6.805	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+APGI	continuous_minus_equal_weight	1	0.8106	0.8	-0.2	1.8	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+APGI	double_sig_minus_continuous	0.6	0.4326	0.4	-0.4	1.2	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+Ruijin	continuous_minus_single_A	5.8	5.6922	5.6	5.2	6.2	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+Ruijin	continuous_minus_single_B	3.8	3.9688	4	3.4	4.6	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+Ruijin	continuous_minus_equal_weight	0.6	0.552	0.6	0.2	1	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed
+Ruijin	double_sig_minus_continuous	-1.4	-1.4634	-1.4	-1.8	-1.2	1000	1000	20261123	paired protein patients; RNA ranking and direction fixed

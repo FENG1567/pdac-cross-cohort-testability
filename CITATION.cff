@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying results, cite this version."
+title: "Fixed-Budget Benchmarking of Reproducible RNA Nominations for Protein-Level Support in PDAC"
+type: software
+version: "2026.11.25"
+repository-code: "https://github.com/FENG1567/pdac-cross-cohort-testability"
+license: MIT
+authors:
+  - given-names: Shuo
+    family-names: Feng
+  - given-names: Chao
+    family-names: Shi
+  - given-names: Tianming
+    family-names: Liu
+  - given-names: Haoran
+    family-names: Ding
+  - given-names: Fenghe
+    family-names: Hang
+  - given-names: Zhenghao
+    family-names: Huang
+  - given-names: Liwei
+    family-names: Liu

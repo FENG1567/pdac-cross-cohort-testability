@@ -1,0 +1,9 @@
+cohort	set	n_testable	supported	rate	lo95	hi95	bootstrap_unit	draws	seed
+Fudan	R_protocol	2268	1561	0.6882716049	0.6684303351	0.7072310406	testable genes sampled with replacement	1000	20261121
+Fudan	R_strict	545	450	0.8256880734	0.7944954128	0.8550458716	testable genes sampled with replacement	1000	20261121
+CPTAC	R_protocol	3524	2129	0.6041430193	0.5885286606	0.6208924518	testable genes sampled with replacement	1000	20261121
+CPTAC	R_strict	894	743	0.8310961969	0.807606264	0.8545861298	testable genes sampled with replacement	1000	20261121
+APGI	R_protocol	1544	617	0.399611399	0.3743523316	0.4242227979	testable genes sampled with replacement	1000	20261121
+APGI	R_strict	399	253	0.634085213	0.5864661654	0.6842105263	testable genes sampled with replacement	1000	20261121
+Ruijin	R_protocol	1706	1087	0.6371629543	0.613130129	0.6588511137	testable genes sampled with replacement	1000	20261121
+Ruijin	R_strict	356	312	0.8764044944	0.8398876404	0.9101123596	testable genes sampled with replacement	1000	20261121

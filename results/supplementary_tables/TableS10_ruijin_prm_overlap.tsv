@@ -1,0 +1,8 @@
+set_or_rule	candidate_count	PRM_panel_target_count	overlap_count	overlap_symbols	pct_PRM_panel_covered	passes_three_target_gate
+R_protocol	5885	14	4	ACTR1A;PDIA5;POLR2H;SLC2A1	28.571428571428573	True
+R_strict	1130	14	1	SLC2A1	7.142857142857143	False
+continuous	500	14	1	SLC2A1	7.142857142857143	False
+double_sig	500	14	1	SLC2A1	7.142857142857143	False
+equal_weight	500	14	1	SLC2A1	7.142857142857143	False
+single_A	500	14	1	SLC2A1	7.142857142857143	False
+single_B	500	14	1	HIP1	7.142857142857143	False

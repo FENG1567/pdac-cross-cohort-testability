@@ -1,0 +1,27 @@
+{
+  "matching_samples": 90,
+  "zero_shared_accession_ids": true,
+  "mutual_best_matching": true,
+  "shared_probes": 28869,
+  "globally_complete_shared_probes": 28869,
+  "matched_r_median": 0.9895737529874284,
+  "matched_r_min": 0.9844873383177751,
+  "all_best_match_r_median": 0.9892398976619006,
+  "all_best_match_r_min": 0.9308849883818806,
+  "GSE62452_tissue_all": {
+    "tumor": 69,
+    "adjacent": 61
+  },
+  "GSE62452_tissue_overlapping": {
+    "tumor": 45,
+    "adjacent": 45
+  },
+  "GSE62452_tissue_independent": {
+    "adjacent": 16,
+    "tumor": 24
+  },
+  "series_sha256": {
+    "GSE28735": "9cd41f43c4dd629d5580fb10ca5695a8190c9aa531474cd6e258157457809bc1",
+    "GSE62452": "8f41d5b3f11451e653fd6bfc0c6b216c219d46711a7676d1e453dee16a078cba"
+  }
+}
